@@ -3,7 +3,7 @@ name: Feature
 about: Request a feature or enhancement
 title: ''
 labels: feature
-assignees: maurolepore
+assignees: 
 
 ---
 
