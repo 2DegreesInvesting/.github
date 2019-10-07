@@ -3,7 +3,7 @@ name: Bug
 about: Report an unexpected problem or unintended behavior
 title: ''
 labels: bug
-assignees: maurolepore
+assignees: 
 
 ---
 
