@@ -1,6 +1,6 @@
 ---
 name: Dataset  
-about: Request an dataset
+about: Request a dataset
 title: ''
 labels: dataset
 assignees: 
@@ -11,10 +11,10 @@ assignees:
 A concise decsription of the purpose of this dataset.
 
 **Is this object indivisable?**
-Can this object be created by combining several already existing objects? If so, maybe this should be a feature request.
+Can this object be created by combining several already existing objects? If so, should this be a feature request instead?
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Add any other context or screenshots about the dataset here.
 
 **Data dictionary entry**
 Please provide a brief description of each column present in the dataset, in the 2Dii data dictionary format. 
