@@ -19,7 +19,7 @@ A concise decsription of the purpose of this dataset. Please be careful to consi
 
 Please provide the `typeof()` each `column` present in the `dataset` and a brief `definition`, in the format of r2dii's `data_dictionary` using [this](https://docs.google.com/spreadsheets/d/1af4Q7gd7e-Msc7uyUbDEEfb04T_N_q1rzkhqKYSQeX4/edit?ts=5da860c1#gid=0) google sheet as a template. 
 
-### Developer's checklist to add `newdata`
+### Checklist for developers checklist to add `newdata`
 
 [`?r2dii.usethis::use_r2dii_data()`](https://2degreesinvesting.github.io/r2dii.usethis/reference/use_r2dii_data.html)
 
