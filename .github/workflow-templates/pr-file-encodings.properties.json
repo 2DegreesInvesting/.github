@@ -1,5 +1,5 @@
 {
     "name": "PR file encoding checker",
     "description": "This action will run on every commit to a PR and test that all changed files are either binary or use ASCII or UTF-8 encoding.",
-    "iconName": "example-icon"
+    "iconName": "2DII-Logo-Blue"
 }
