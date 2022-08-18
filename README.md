@@ -1,12 +1,12 @@
 # .github
+
 A repository for default files
 
-Default files will be used for any public repository in the organization that does not contain its own file of that type.
+Default files will be used for any public repository in the organization
+that does not contain its own file of that type.
 
-* [Supported file types](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization#supported-file-types).
+* [Supported file
+types](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization#supported-file-types).
 * [Creating new files](https://help.github.com/en/articles/creating-new-files).
 * [Creating a repository for default files](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization#creating-a-repository-for-default-files).
 
-For example, files stored here provide templates for issues opened in other repositories:
-
-![](https://i.imgur.com/oQJvShn.png)
